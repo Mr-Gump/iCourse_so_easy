@@ -1,8 +1,9 @@
 # iCourse_so_easy
 Get iCourse answer!
-## 使用方法<br>
-### 下载chrome和chromedriver<br>
-### 复制要刷答案的课程的测试与作业页面的URL网址   
-例如https://www.icourse163.org/learn/XJTU-1003679002?tid=1207117201#/learn/testlist<br>
+## How to use<br>
+### Download Chrome Browser ,chromedriver and Python3.x<br>
+### Copy the URL of the website that includes the excercises and homework ,which you want answers from!     
+Ps:https://www.icourse163.org/learn/XJTU-1003679002?tid=1207117201#/learn/testlist<br>
+###By running mooc.py you will get what you want in the HTML file which is in the same file fold as the py file.
 
-# 注意:当前仅支持中国大学Mooc，不自持多选题
+# Attention: It can just be used in iCourse and not for Multiple-Choice questions。  
