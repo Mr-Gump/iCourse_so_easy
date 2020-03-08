@@ -2,7 +2,7 @@
 Get iCourse answer!
 
 ## 运行环境：
-+ python3.x Chrome浏览器,chromedriver.exe<br>
++ python3.x，PyPi,Chrome浏览器,chromedriver.exe<br>
 ## 说明：<br>
 + URL为测试与作业页面的URL     
  例如:https://www.icourse163.org/learn/XJTU-1003679002?tid=1207117201#/learn/testlist<br>
