@@ -6,7 +6,7 @@ Get iCourse answer!
 ## 说明：<br>
 + URL为测试与作业页面的URL     
  例如:https://www.icourse163.org/learn/XJTU-1003679002?tid=1207117201#/learn/testlist<br>
-+ 答案存在运行生成的HTML中，与py文件同一目录下
++ 答案保存在运行生成的HTML中，与py文件同一目录下
 
 # 版本更新：
 + V2.0 修复了一下错误，支持在使用过程中浏览器最小化，程序运行结束后可自动关闭窗口。
