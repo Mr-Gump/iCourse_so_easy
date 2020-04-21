@@ -21,4 +21,5 @@ Get iCourse answer!
 + 由于浏览器的编码原因，请使用Chrome浏览器以获得更好的体验
 + 一些几个别的图片无法显示，是由于网易图床没有访问权限，这个问题会在后续版本进行修复
 # 写作不易，后续仍然会免费开源，不断修复完善，还请支持作者
-![avatar](https://imgchr.com/i/J3h46s)![avatar](https://imgchr.com/i/J3hhlj)
+[![J3h46s.md.jpg](https://s1.ax1x.com/2020/04/21/J3h46s.md.jpg)](https://imgchr.com/i/J3h46s)
+[![J3hhlj.md.png](https://s1.ax1x.com/2020/04/21/J3hhlj.md.png)](https://imgchr.com/i/J3hhlj)
